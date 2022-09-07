@@ -1,9 +1,13 @@
-import React from 'react';
+import React from "react";
+import "./nav.css";
 
 function Nav() {
   return (
     <>
       <header>
+        <nav>
+          <ul></ul>
+        </nav>
         <nav>
           <ul>
             <li>Pizzas</li>
